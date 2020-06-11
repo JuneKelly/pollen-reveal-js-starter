@@ -1,0 +1,16 @@
+.DS_Store
+**/*.html
+compiled/
+**/compiled/
+*.html
+*.ltx
+*.pdf
+*.out
+*.aux
+*.log
+*.xml
+*.toc
+compiled/
+pollen-cache/
+drafts/
+pollen.cache
