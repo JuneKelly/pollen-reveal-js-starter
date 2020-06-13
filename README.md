@@ -37,3 +37,10 @@ And for syntax highlighting, change the `link#highlight-theme` element:
   <!-- Theme used for syntax highlighted code -->
   <link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
 ```
+
+
+## Start your own git repo
+
+``` sh
+$ rm -rf .git && git init && git add -A && git commit -m 'init'
+```
